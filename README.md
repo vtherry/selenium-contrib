@@ -1,2 +1,2 @@
 # selenium-navigation
-Provides navigation infrastructure for selenium page objects
+Provides navigation infrastructure to Selenium WebDriver's page objects for .NET applications
