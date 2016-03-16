@@ -1,0 +1,1 @@
+nuget pack ..\src\Selenium.Contrib\Selenium.Contrib.csproj -Prop Configuration=Release

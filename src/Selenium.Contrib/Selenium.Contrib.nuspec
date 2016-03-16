@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Selenium.Contrib</id>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <authors>Vincent Therry</authors>
     <owners>Vincent Therry</owners>
     <licenseUrl>https://github.com/vtherry/selenium-contrib/blob/master/LICENSE</licenseUrl>
@@ -13,8 +13,8 @@
     <copyright>Copyright 2016</copyright>
     <tags>Selenium PageObject Contrib Helper SpecFlow MsTest</tags>
     <dependencies>
-      <dependency id="Selenium.Support" version="2.52.0" />
-      <dependency id="Selenium.WebDriver" version="2.52.0" />
+      <dependency id="Selenium.Support" version="2.53.0" />
+      <dependency id="Selenium.WebDriver" version="2.53.0" />
     </dependencies>
   </metadata>
 </package>
