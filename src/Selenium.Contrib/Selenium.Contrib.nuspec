@@ -2,19 +2,19 @@
 <package >
   <metadata>
     <id>Selenium.Contrib</id>
-    <version>0.1.1</version>
+    <version>0.1.2</version>
     <authors>Vincent Therry</authors>
     <owners>Vincent Therry</owners>
     <licenseUrl>https://github.com/vtherry/selenium-contrib/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/vtherry/selenium-contrib</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Provides navigation infrastructure to Selenium WebDriver's page objects for .NET applications</description>
-    <releaseNotes>Initial package.</releaseNotes>
-    <copyright>Copyright 2016</copyright>
+    <releaseNotes>Upgrade to Selenium.WebDriver v3.0.1.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
     <tags>Selenium PageObject Contrib Helper SpecFlow MsTest</tags>
     <dependencies>
-      <dependency id="Selenium.Support" version="2.53.0" />
-      <dependency id="Selenium.WebDriver" version="2.53.0" />
+      <dependency id="Selenium.Support" version="3.0.1" />
+      <dependency id="Selenium.WebDriver" version="3.0.1" />
     </dependencies>
   </metadata>
 </package>
